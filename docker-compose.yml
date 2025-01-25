@@ -1,0 +1,15 @@
+version: '2'
+
+services:
+    web:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        restart: always
+        ports:
+            - 443:443
+        volumes:
+            - ./files:/var/www/html/files
+            - ./database:/var/www/html/database
+            - ./uploads:/var/www/html/uploads
+            - ./scripts/metrics:/var/www/html/scripts/metrics
