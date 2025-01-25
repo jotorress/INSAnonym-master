@@ -79,12 +79,19 @@ Schéma du modèl MVC utilisé
 ![Modèle Vue Controlleur](https://user-images.githubusercontent.com/59082879/95556892-4ea51f00-0a14-11eb-9415-46c38e4760d8.png)
 
 
-## Users for login
-test1
-Azerty123#
+## Comptes de test
 
-test2
-Azerty123#
+- Compte 1 :
+
+Utilisateur : test1
+
+Mot de passe : Azerty123#
+
+- Compte 2 :
+
+Utilisateur : test2
+
+Mot de passe : Azerty123#
 
 ## Auteurs
 * **Thomas LAVIGNE**
