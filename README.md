@@ -47,8 +47,7 @@ https://docs.docker.com/engine/install/ et https://docs.docker.com/compose/insta
 
 - Clonez le repertoire Git :
 ```shell
-$ git clone https://github.com/machneit/INSAnonym.git
-$ cd INSAnonym
+$ git clone https://github.com/jotorress/INSAnonym-master.git
 ```
 - Exécution de l'instance Docker (Compile et lance la platforme INSAnonym):
 ```shell
@@ -81,17 +80,46 @@ Schéma du modèl MVC utilisé
 
 ## Comptes de test
 
-- Compte 1 :
+- Compte Administrateur :
+
+Utilisateur : admin
+
+Mot de passe : @dminDARC2021
+
+### Test
+
+- Compte Test 1 :
 
 Utilisateur : test1
 
 Mot de passe : Azerty123#
 
-- Compte 2 :
+- Compte Test 2 :
 
 Utilisateur : test2
 
 Mot de passe : Azerty123#
+
+### Users
+
+- Compte Users 1 :
+
+Utilisateur : miller
+
+Mot de passe : Azerty123#
+
+- Compte Users 2 :
+
+Utilisateur : jonathan
+
+Mot de passe : Azerty123#
+
+- Compte Users 3 :
+
+Utilisateur : adam
+
+Mot de passe : Azerty123#
+
 
 ## Auteurs
 * **Thomas LAVIGNE**
