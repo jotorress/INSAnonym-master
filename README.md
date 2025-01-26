@@ -70,7 +70,7 @@ $ docker exec -it [name] /bin/bash (Avec [name] remplacé pour le nom de l'insta
 ```
 
 **L'installation est terminée !
-La plateforme de compétition est disponible à l'adresse: https://localhost:443/**
+La plateforme de compétition est disponible à l'adresse: https://localhost/**
 
 ## Architecture technique
 
